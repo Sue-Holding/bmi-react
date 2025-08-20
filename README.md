@@ -34,9 +34,9 @@ Originally made in C++ for school I decided to redesign it using Typescript and 
 ### 1. Clone the repo:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Sue-Holding/bmi-react.git
 
-cd <your-repo-name>
+cd bmi-react
 ```
 
 ### 2. Install dependencies:
