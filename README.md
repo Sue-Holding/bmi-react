@@ -4,6 +4,8 @@ A simple React + TypeScript app to calculate Body Mass Index (BMI) and Basal Met
 
 Originally made in C++ for school I decided to redesign it using Typescript and React.
 
+See the deployed version here! https://bmi-bmr-calc.netlify.app
+
 ## Features
 
 - Enter weight (kg), height (cm), age, and sex.
